@@ -2,7 +2,7 @@
 
 <h3>
 You can check the python code in the main.py file or you can also save it and run it on you own editor.
-  <br>
+  <br><br>
 Note : You can display as many as characters you want as long it fits in your screen height and width , if above the limit then you might have issue to display the whole expression.
 
 </h3>
