@@ -1,4 +1,4 @@
-<h1>14 Segment Display<h1>
+<h1>14 Segment Display</h1>
 
 <img src = "/Images/Image1.png" , alt = "Image 1">
 <img src = "/Images/Image2.png" , alt = "Image 2">
