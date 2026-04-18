@@ -1,5 +1,11 @@
 <h1>14 Segment Display</h1>
 
+<p> 14 Segment Display is a terminal based segment display. The program uses the logic of 14-Segment-Display to display most  of the keyboard characters on  the screen.
+The code is not generic at all , when it comes to the main logic it is hardcoded(sorry). The sole purpose of this project for me was just for entertainment and to get my hands on python
+Note : No Library except random has been used in this code.
+</p>
+
+
 <h3>
 You can check the python code in the main.py file or you can also save it and run it on you own editor.
   <br><br>
